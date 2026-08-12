@@ -6,3 +6,4 @@
 	path = third_party/ascend/Triton-distributed-ascend
 	url = https://gitcode.com/Ascend/Triton-distributed-ascend.git
     depth = 1
+	update = none
